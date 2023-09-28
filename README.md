@@ -1,5 +1,8 @@
 # UOCIS322 - Project 0
 
+Author: Evan Doster 
+Contact: edoster@uoregon.edu
+Description: This project aims to get you familiar with using git and modifying files. 
 Trivial project to exercise version control, turn-in, and other mechanisms
 for CIS 322.
 
