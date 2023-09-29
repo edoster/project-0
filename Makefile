@@ -7,7 +7,6 @@
 # appropriate location.
 
 install:
-	# Copying credentials.ini to the hello folder
 	@(cp credentials.ini hello)
 run:
 	@(cd hello; python3 hello.py)
